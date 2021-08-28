@@ -1,0 +1,14 @@
+C:\Users\namal\source\repos\StringComparator\StringComparator\bin\Debug\netcoreapp3.1\StringComparator.exe
+C:\Users\namal\source\repos\StringComparator\StringComparator\bin\Debug\netcoreapp3.1\StringComparator.deps.json
+C:\Users\namal\source\repos\StringComparator\StringComparator\bin\Debug\netcoreapp3.1\StringComparator.runtimeconfig.json
+C:\Users\namal\source\repos\StringComparator\StringComparator\bin\Debug\netcoreapp3.1\StringComparator.runtimeconfig.dev.json
+C:\Users\namal\source\repos\StringComparator\StringComparator\bin\Debug\netcoreapp3.1\StringComparator.dll
+C:\Users\namal\source\repos\StringComparator\StringComparator\bin\Debug\netcoreapp3.1\StringComparator.pdb
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.csproj.AssemblyReference.cache
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.AssemblyInfoInputs.cache
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.AssemblyInfo.cs
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.csproj.CoreCompileInputs.cache
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.dll
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.pdb
+C:\Users\namal\source\repos\StringComparator\StringComparator\obj\Debug\netcoreapp3.1\StringComparator.genruntimeconfig.cache
